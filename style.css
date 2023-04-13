@@ -1,0 +1,15 @@
+body {
+	background-image: url(a44d13bb-d594-4d04-95bd-30a627c2b132.jpg);
+}
+
+p {
+	background: blue;
+	width: 500px;
+	padding: 90px;
+	margin: auto;
+	text-align: center;
+	background-image: url(top.jpg),url(e82445ac-084c-41bd-9892-60fc49d10d15.jpg),url(f417faac-783f-45c7-b217-a1cf5da11255.jpg);
+	background-repeat: no-repeat,no-repeat,repeat-y;
+	background-position: top,bottom,center;
+	background-size: 100%;
+}
